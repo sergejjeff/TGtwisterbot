@@ -5,6 +5,21 @@ __pycache__/
 *.pyo
 *.pyd
 
+../selfsalesbot/
+../*.py
+../*.log
+../*.csv
+../*.db
+../venv/
+../AppData/
+../Desktop/
+../Documents/
+../Downloads/
+../Music/
+../Pictures/
+../Videos/
+
+
 # Виртуальное окружение
 env/
 venv/
