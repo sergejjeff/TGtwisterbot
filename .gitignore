@@ -1,27 +1,14 @@
 # Исключаем директории и файлы, которые не нужно коммитить
-selfsabot/
+selfsalesbot/
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 
-../selfsalesbot/
-../*.py
-../*.log
-../*.csv
-../*.db
-../venv/
-../AppData/
-../Desktop/
-../Documents/
-../Downloads/
-../Music/
-../Pictures/
-../Videos/
-
+# Игнорирование файлов проекта selfsabot
+selfsabot/
 
 # Виртуальное окружение
-env/
 venv/
 ENV/
 VENV/
