@@ -1,8 +1,0 @@
-pymysql
-aiogram
-mysql-connector-python
-python-dotenv
-logging
-paramiko
-schedule
-pandas
