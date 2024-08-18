@@ -28,3 +28,19 @@ VENV/
 
 # Настройки окружения (если используются)
 .env
+
+# Исключение системных файлов и конфигураций
+.* # Этот паттерн игнорирует все скрытые файлы в текущем репозитории
+AppData/
+Desktop/
+Documents/
+Downloads/
+Music/
+Pictures/
+Videos/
+NTUSER.*
+OneDrive/
+Photoshop2015/
+PycharmProjects/
+Saved Games/
+Searches/
